@@ -1,0 +1,1 @@
+#### "core java for the impatient" 的案例和部分题解，快速回顾java 8
